@@ -1,2 +1,1 @@
-# C-32
-Angry Birds 7
+# AngryBirdsStage7
